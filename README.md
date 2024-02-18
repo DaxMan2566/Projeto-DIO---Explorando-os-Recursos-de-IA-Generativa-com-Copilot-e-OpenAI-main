@@ -4,7 +4,7 @@ Neste projeto, analisei a simplicidade do uso da inteligência artificial no cot
 
 ## 1 - Ajuda na criação de código
 
-Regularmente, utilizo IA generativa para me auxiliar a pensar na lógica e implementação de uma funcionalidade. No exemplo abaixo, o Copiloto me ajuda com a criação de uma função que faz o corte de uma string e salva cada peça em um dicionário, com as chaves relativas às posições de corte.
+Regularmente, utilizo IA generativa para me auxiliar a pensar na lógica e implementação de uma funcionalidade. No exemplo abaixo, o Copiloto me ajuda com a criação de uma função que faz um jogo da velha em linguagem python.
 
 Prompt:
 
